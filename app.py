@@ -1,7 +1,7 @@
 import streamlit as st
 import functions as fn
 
-st.set_page_config(layout="wide", page_title="Medical Tracker")
+st.set_page_config(layout="wide", page_title="Medical Tracker", icon="⚕️")
 page_bg_image = """
     <style>
     [data-testid="stAppViewContainer"]{
